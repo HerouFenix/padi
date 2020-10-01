@@ -3,7 +3,7 @@
 ## Authors
 
 -   **Diogo Silva** - [HerouFenix](https://github.com/HerouFenix)
--   **Tiago Melo** - [???](https://github.com/)
+-   **Tiago Melo** - [tiagoleonmelo](https://github.com/tiagoleonmelo)
 
 ## License
 
